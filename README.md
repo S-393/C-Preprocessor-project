@@ -65,7 +65,8 @@ The main objective of this project is to understand the working principles of a 
 ---
 
 ## 👩‍💻 PROJECT AUTHOR
-Name: Sai Soujanya Narsingoju 
-Project: Menu -C preprocessor 
+Name: Sai Soujanya Narsingoju.
+
+Project: Menu -C preprocessor. 
 
 Developed as part of Embedded Systems learning.
